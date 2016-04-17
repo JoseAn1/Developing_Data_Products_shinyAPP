@@ -5,3 +5,5 @@ First: We can choose any of the five opened parameters to build the data set. Th
 
 Second: The App figures out the flexibility level, in knots number, that defines the best statistical model ( The lowest testing MSE), but we can also change it to see the results. 
 
+[Hear you can acces to the Code in Github for the App](https://github.com/JoseAn1/Developing_Data_Products_shinyAPP)
+Hear you can acces to the [Presentation](http://josean1.github.io/#1) and its [Code](https://github.com/JoseAn1/Developing_Data_Products_Presentation) 
