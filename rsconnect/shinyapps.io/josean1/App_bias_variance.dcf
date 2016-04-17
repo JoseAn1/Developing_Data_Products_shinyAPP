@@ -1,0 +1,10 @@
+name: App_bias_variance
+account: josean1
+server: shinyapps.io
+appId: 94676
+bundleId: 422136
+url: https://josean1.shinyapps.io/App_bias_variance/
+when: 1460880871.67279
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: documentation.Rmd

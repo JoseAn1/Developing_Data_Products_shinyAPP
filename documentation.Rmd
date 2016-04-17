@@ -1,0 +1,7 @@
+
+This App shows that the Testing and Training MSE shape have a general pattern when the flexibility of the model changes. This is a general property for any of the selected data set and Statistical Method.  
+
+First: We can choose any of the five opened parameters to build the data set. This selection, together with the prior assumptions described below, builds the data set. After pressing the "Apply Changes" button, we will show the results in three plots.   
+
+Second: The App figures out the flexibility level, in knots number, that defines the best statistical model ( The lowest testing MSE), but we can also change it to see the results. 
+
